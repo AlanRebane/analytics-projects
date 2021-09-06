@@ -1,4 +1,4 @@
-# stunning-telegram
+# Analytics Projects
 This repository contains 2 scripts created by me with full data analytics workflow. These scripts are my submissions for assessment in the 7313 - Data Science Analytics course at Stockholm School of Economics.
 
 Please note that if Github is unable to load the notebooks, use https://nbviewer.jupyter.org/ instead! There is no need to install it. Direct link: https://nbviewer.jupyter.org/github/AlanRebane/stunning-telegram/tree/main/
