@@ -12,7 +12,7 @@ I created this repo to show how I would approach a business case with data analy
 - Using neural networks for modelling
 
 ## Background on the business case
-Toy Storey sells toys online and offers shipping or pick-up globally. They offer a subscription service (a surprise box of toys delivered at home every month). Throughout the last six year, ten percent of customers have been invited to try for a free first month. Offering the first month, including approaching customers and setting up the service package, is quite costly (40\$). All consumers that are approached, subscribe to the service. For those customers who retain their service contract, the subscription program is very profitable (20\$ margin per month, starting second month).
+Toy Storey sells toys online and offers shipping or pick-up globally. They offer a subscription service (a surprise box of toys delivered at home every month). Throughout the last six year, ten percent of customers have been invited to try for a free first month. Offering the first month, including approaching customers and setting up the service package, is quite costly (USD 40). All consumers that are approached, subscribe to the service. For those customers who retain their service contract, the subscription program is very profitable (USD 20 margin per month, starting second month).
 
 ![thomas-and-friends-2435542_640](https://user-images.githubusercontent.com/63585199/124383543-af2c6880-dcd5-11eb-89e7-dd5fa3cb0ba0.jpg)
 
